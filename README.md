@@ -2,11 +2,9 @@
 
 🎓 Graduated in Systems Analysis and Development at FATEC São Caetano do Sul
 
-Currently working [@boxnet](https://materiais.boxnet.com.br/transformacao-analitica) with:
+Currently working [@doc88git](http://www.doc88.com.br) with:
 
 - Vue
-- Node
-- AWS
-- GCP
+- Nuxt
 
 > Check out my portfolio [🇺🇸](https://renato66.github.io/en) or [🇧🇷](https://renato66.github.io)
