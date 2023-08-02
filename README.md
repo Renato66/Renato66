@@ -2,13 +2,13 @@
 
 🎓 Graduated in Systems Analysis and Development at FATEC São Caetano do Sul
 
-Currently working [@FridayFinance](https://fridayfinance.com) with:
+Currently looking for jobs with:
 
-- Vue 3
+- Vue
+- Node
 - Vite
 - Apollo
 - Cypress
-- Node
 - Postgress
 - GraphQL
 
